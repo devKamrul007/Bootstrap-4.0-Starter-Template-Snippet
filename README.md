@@ -14,7 +14,7 @@ In your Visual Studio Code editor
 8. Save the html.json file and close.
 
 ### Using:
-Once you have created this snippet in your VSCode editor you will be able to use it in your all html files easily. Just type **bts4** and press enter.
+Once you have created this snippet in your VSCode editor you will be able to use it in your all html files easily. Just type **bts4** and press tab.
 
 ![type bts4](https://github.com/niceKamrul/Bootstrap-4.0-Starter-Template-Snippet/blob/master/type%20bts4%20and%20press%20tab.png?raw=true)
 
